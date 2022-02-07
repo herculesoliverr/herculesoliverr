@@ -1,7 +1,7 @@
 ### Hello 
 
 - 👋 Hello, welcome to my readme!!
-- 🖥️ Estágiario de Desenvolvimento na [Framework Digital](https://www.frameworkdigital.com.br/)
+- 🖥️ Jr Developer na [Framework Digital](https://www.frameworkdigital.com.br/)
 - 📚 Bacharelando Sistemas de Informação na [Universidade Federal de Viçosa](https://www.ufv.br/)!
 
 
