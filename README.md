@@ -27,14 +27,8 @@
  
 </div>
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/her/her/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/her/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=her.her&"  />
 </div>
 
 <!--
