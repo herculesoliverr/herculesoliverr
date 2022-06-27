@@ -27,6 +27,16 @@
  
 </div>
 
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/her/her/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/her/count.svg?"  />
+</div>
+
 <!--
 **herculesoliverr/herculesoliverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
