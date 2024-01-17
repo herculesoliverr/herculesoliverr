@@ -1,8 +1,8 @@
 ### Hello 
 
-- 👋 Hello, welcome to my readme!!
-- 🖥️ Front-End Developer na [Framework Digital](https://www.frameworkdigital.com.br/)
-- 📚 Bacharelando Sistemas de Informação na [Universidade Federal de Viçosa](https://www.ufv.br/)!
+- 👋 Hello, welcome to my space!!
+- 🖥️ Front-End Developer Pleno at [Framework Digital](https://www.frameworkdigital.com.br/)
+- 📚Bachelor's in Computer Information Systems at the [Federal University of Viçosa](https://www.ufv.br/)!
 
 
 ##
