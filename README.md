@@ -2,7 +2,7 @@
 
 - 👋 Hello, welcome to my space!!
 - 🖥️ Front-End Developer Pleno at [Framework Digital](https://www.frameworkdigital.com.br/)
-- 📚Bachelor's in Computer Information Systems at the [Federal University of Viçosa](https://www.ufv.br/)!
+- 📚 Bachelor's in Information Systems at the [Federal University of Viçosa](https://www.ufv.br/)!
 
 <div  align="center"> 
   <a href="https://www.instagram.com/herculesoliveir/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
