@@ -1,8 +1,22 @@
 ### Hello
 
-- 👋 Hello, welcome to my space!!
-- 🖥️ Front-End Developer Pleno at [Framework Digital](https://www.frameworkdigital.com.br/)
+- 👋 Welcome to my space!!
+- 🖥️ Front-End Developer Mid at [Framework Digital](https://www.frameworkdigital.com.br/)
 - 📚 Bachelor's in Information Systems at the [Federal University of Viçosa](https://www.ufv.br/)!
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/herculesoliverr" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/hercules-oliveira-18599b1b0" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/herculesoliveir" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+ <a href = "mailto:hercules.oliverr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>  
 
 <div  align="center"> 
   <a href="https://www.instagram.com/herculesoliveir/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,18 +40,3 @@
       </a>
     <br />
   </div>
-
-<!--
-**herculesoliverr/herculesoliverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
